@@ -51,7 +51,7 @@ http://flickity.metafizzy.co
   transform: translateY(-50%); }
 
 .flickity-prev-next-button:hover {
-  background: rgb(214, 55, 63); }
+  background:white; }
 
 .flickity-prev-next-button:focus {
   outline: none;
